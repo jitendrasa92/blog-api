@@ -1,0 +1,27 @@
+{
+  "users": {
+    "loginSuccess": "Login successful.",
+    "alreadyExist": "Sorry!! Account already exist.",
+    "SignUpSuccess": "Account has been created successfully.",
+    "logoutSuccess": "Logout successful.",
+    "invalidCredentials": "Invalid Credentials",
+    "accessTokenRefreshed": "Access token refreshed successfully.",
+    "notAvilable": "Email not avilable.",
+    "ForgotOTPSend": "Forgot password OTP send on your mobile.",
+    "tokenExpired": "Token expired.",
+    "otpVerified": "OTP verified",
+    "otpNotVerified": "OTP not verified",
+    "changePasswordSuccess": "Password has been updated successfully.",
+    "newUser": "New User.",
+    "UserNotAvilable": "User not avilable.",
+    "reSendOtpSuccess": "Re send OTP successfully.",
+    "userNameAlreadyExist": "Sorry!! username already exist.",
+    "emailAlreadyExist": "Sorry!! email already exist.",
+    "mobileAlreadyExist": "Sorry!! mobile already exist.",
+    "profileUpdate": "Profile has been updated successfully."
+  },
+  "page": {
+    "SlugNotAvilable": "Slug not avilable.",
+    "getPageData": "Page data."
+  }
+}

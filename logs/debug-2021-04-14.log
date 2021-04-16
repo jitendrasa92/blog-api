@@ -1,0 +1,449 @@
+[ 2021-04-14T05:37:29.123Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:37:29.158Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:49:48.373Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:49:48.396Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:50:55.881Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:50:55.905Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:50:58.850Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:50:58.873Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:51:06.012Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:51:06.036Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:51:17.400Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:51:17.424Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:51:23.680Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:51:23.701Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:51:39.682Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:51:39.708Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:51:56.659Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:51:56.681Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:52:08.734Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:52:08.755Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:52:15.782Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:52:15.807Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:52:24.656Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:52:24.678Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:52:31.044Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:52:31.065Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:52:40.844Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:52:40.870Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:52:42.342Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:52:42.367Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:53:01.212Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:53:01.239Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:53:07.392Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:53:07.414Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:53:13.040Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4MjA2NTM1LCJleHAiOjE2MTgyOTI5MzV9.dpfDFAKrhFGOwtmLxt8OFWVFzsmx-0SJnZdW2KUYIYc 
+[ 2021-04-14T05:53:13.058Z ] - [ [31merror[39m ] JWT: Authentication failed - jwt expired 
+[ 2021-04-14T05:53:24.119Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-04-14T05:53:24.122Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-04-14T05:53:24.306Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-04-14T05:53:27.749Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-04-14T05:53:27.752Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-04-14T05:53:27.889Z ] - [ [34mdebug[39m ] Login: Password match status - true 
+[ 2021-04-14T05:53:27.890Z ] - [ [32minfo[39m ] JWT: Generating refresh token - {
+  "data": {
+    "adminId": "57d28452ed5d4d54e8687098"
+  },
+  "expiresIn": "24h"
+}
+[ 2021-04-14T05:53:27.893Z ] - [ [32minfo[39m ] JWT: Generating access token - {
+  "data": {
+    "adminId": "57d28452ed5d4d54e8687098"
+  },
+  "expiresIn": "24h"
+}
+[ 2021-04-14T05:53:29.735Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:53:29.736Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:53:34.538Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:53:34.539Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:56:17.198Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:17.219Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:20.603Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:20.627Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:23.722Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:23.753Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:26.133Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:26.161Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:27.902Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:27.942Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:32.727Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:32.759Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:34.091Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:34.114Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:36.673Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:36.695Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:56:39.633Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:56:39.656Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:57:28.317Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:57:28.321Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:57:37.674Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:57:37.675Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:59:06.421Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:59:06.443Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:59:06.473Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:59:06.477Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:59:06.488Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:59:06.489Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:59:20.367Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:59:20.390Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:59:24.902Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:59:24.928Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:59:37.020Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:59:37.043Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:59:38.130Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:59:38.151Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:59:44.263Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:59:44.266Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T05:59:54.012Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T05:59:54.036Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T05:59:54.153Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T05:59:54.157Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:00:10.074Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:00:10.097Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:00:25.783Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:00:25.808Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:00:28.783Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:00:28.787Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:00:42.759Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:00:42.782Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:00:42.812Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:00:42.815Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:00:49.130Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:00:49.131Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:01:12.040Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:01:12.064Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:01:12.119Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:01:12.135Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:01:38.935Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:01:38.960Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:15.068Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:02:15.098Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:16.309Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:02:16.333Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:21.859Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:02:21.881Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:25.981Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:02:26.007Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:33.627Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:02:33.669Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:36.565Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:02:36.569Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:02:54.622Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:02:54.644Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:02:54.681Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:02:54.683Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:03:07.985Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:03:07.986Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:03:37.689Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:03:37.710Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:03:37.770Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:03:37.773Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:04:32.125Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:04:32.148Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:04:33.153Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:04:33.179Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:04:54.248Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:04:54.272Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:04:59.206Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:04:59.210Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:06:59.232Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:06:59.234Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:23:57.951Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:23:57.977Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:24:06.127Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:24:06.131Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:24:20.312Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:24:20.345Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:24:20.357Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:24:20.360Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:24:29.836Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:24:29.858Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:24:33.170Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:24:33.174Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:24:53.565Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:24:53.588Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:24:53.604Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:24:53.607Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:24:57.918Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:24:57.919Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:25:08.702Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:25:08.726Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:25:08.742Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:25:08.745Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:25:44.716Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:25:44.741Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:25:49.582Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:25:49.604Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:25:52.702Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:25:52.723Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:25:55.638Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:25:55.642Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:26:19.888Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:26:19.910Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:26:19.970Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:26:19.973Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:26:23.945Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:26:23.968Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:26:26.644Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:26:26.667Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:26:31.952Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:26:31.955Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:26:46.551Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:26:46.584Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:26:46.613Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:26:46.622Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:27:08.637Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:27:08.659Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:27:11.417Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:27:11.441Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:27:13.860Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:27:13.884Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:27:15.717Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:27:15.750Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:27:17.669Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:27:17.692Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:27:19.597Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:27:19.656Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:27:23.955Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:27:23.958Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:29:00.492Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:29:00.522Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:29:00.552Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:29:00.557Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:33:03.069Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:33:03.098Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:33:09.416Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:33:09.419Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:33:59.984Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:34:00.006Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:34:00.029Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:34:00.032Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:34:04.078Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:34:04.102Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:34:05.482Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:34:05.505Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:34:07.123Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:34:07.148Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:34:09.979Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:34:09.983Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:34:39.156Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:34:39.193Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:34:39.210Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:34:40.254Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:34:40.282Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:34:45.242Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:34:45.246Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:35:14.228Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:35:14.254Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:35:14.287Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:35:14.292Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:35:20.535Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:35:20.556Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:35:29.294Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:35:29.319Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:35:36.487Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:35:36.511Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:35:40.215Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:35:40.218Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:37:40.246Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:37:40.251Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:45:10.597Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:45:10.599Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:52:43.452Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:52:43.485Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:52:51.723Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:52:51.760Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:52:58.697Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:52:58.701Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:53:29.646Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:53:29.685Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:53:34.591Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:53:34.595Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:54:26.338Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T06:54:26.356Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:54:26.360Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:54:26.391Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T06:54:29.866Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:54:29.867Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T06:56:29.875Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T06:56:29.876Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:04:11.526Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:04:11.556Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:04:13.439Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:04:13.462Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:04:16.197Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:04:16.200Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:04:30.602Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:04:30.634Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:04:30.647Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:04:30.650Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:04:38.138Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:04:38.161Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:04:47.316Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:04:47.341Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:04:54.658Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:04:54.662Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:05:00.043Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:05:00.067Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:05:00.143Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:05:00.146Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:12:06.750Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:12:06.779Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:12:09.893Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:12:09.916Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:12:14.607Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:12:14.630Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:12:28.706Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:12:28.710Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:12:49.100Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-04-14T07:12:49.124Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-04-14T07:12:49.141Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:12:49.144Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:12:49.335Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:12:49.336Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:13:48.161Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:13:48.162Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:14:58.010Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:14:58.011Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T07:14:58.110Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE4Mzc5NjA3LCJleHAiOjE2MTg0NjYwMDd9.gVqyYRaBBqLODZ_jDiwZhedNmZO9x7uFlwd2w6zIg6I 
+[ 2021-04-14T07:14:58.111Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-04-14T10:43:46.682Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7InVzZXJJZCI6IjYwNWQ4NjNiZDY4Njc0NDVjMDNlNGNkMyJ9LCJpYXQiOjE2MTgyMzAwNjQsImV4cCI6MTYxODMxNjQ2NH0.bD2LYFfjsqKt7Jh1K5HsLTU9kp70Q8l8nVKMeVongr0 
+[ 2021-04-14T10:43:46.688Z ] - [ [31merror[39m ] JWT: Authentication failed - jwt expired 
