@@ -7,11 +7,18 @@ exports.articleList = async (req, res) => {
     let params = req.body;
 
     try {
+        let options = {
+            //lean: true,
+            page: Number(req.query.page || process.env.defaultPage),
+            limit: Number(req.query.itemsPerPage || process.env.defaultPageSize),
+            sort: { created_at: -1 }
+        };
         var filter = {};
         filter.status = 1
         // if (!_.isEmpty(params.category_id)) {
         // }
-        const articleList = await Articale.find(filter);
+        //const articleList = await Articale.find(filter);
+        const articleList = await Articale.paginate(filter, options);
         response.status = true;
         response.message = 'Success';
         response.data = articleList;

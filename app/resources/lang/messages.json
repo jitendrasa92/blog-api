@@ -23,5 +23,8 @@
   "page": {
     "SlugNotAvilable": "Slug not avilable.",
     "getPageData": "Page data."
+  },
+  "contact": {
+    "mailSend": "Mail sent successfully."
   }
 }

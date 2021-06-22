@@ -16,7 +16,7 @@ exports.login = async (req, res) => {
     let params = req.body;
     const { email, password } = params;
     const admin = await Admin.findOne({ email: email });
-
+    console.log(await bcrypt.hash('123456'));
     if (admin) {
         logger.log('debug', 'Login: Fetched admin by email -', admin.email);
         logger.log('debug', 'Login: Comparing password');

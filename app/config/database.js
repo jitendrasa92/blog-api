@@ -8,7 +8,7 @@ const dbName = 'blog';
 
 //var uri = `mongodb://${userName}:${password}@${hostName}:${port}/${dbName}`;
 var uri = `mongodb://${hostName}:${port}/${dbName}`;
-console.log(uri);
-mongoose.connect(uri, { useNewUrlParser: true })
+//console.log(uri);
+mongoose.connect(uri, { useCreateIndex: true, useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => { logger.log('info', `Succesfully Connected to the Mongodb Database  at URL :${uri}`) })
   .catch((e) => { console.log(e) });

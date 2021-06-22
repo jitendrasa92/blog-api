@@ -38,4 +38,5 @@ app.listen(port, () => {
     logger.log('info', `Server started at http://${host}:${port}`);
 })
 
+
 module.exports = app;

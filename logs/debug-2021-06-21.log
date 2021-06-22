@@ -1,0 +1,430 @@
+[ 2021-06-21T06:42:30.081Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T06:42:39.148Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T06:58:13.292Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE5MDcyOTI0LCJleHAiOjE2MTkxNTkzMjR9.zVt97s_82k-bVMdzKi3uB8P6COqJsbLtQqRQZGihZlc 
+[ 2021-06-21T06:58:13.338Z ] - [ [31merror[39m ] JWT: Authentication failed - jwt expired 
+[ 2021-06-21T06:58:39.003Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjE3NjAyNDMwLCJleHAiOjE2MTc2ODg4MzB9.jiHM8eeirHLXS4mlZuD4shvEUKpoOgPgY3ltLADTsyI 
+[ 2021-06-21T06:58:39.004Z ] - [ [31merror[39m ] JWT: Authentication failed - jwt expired 
+[ 2021-06-21T07:04:07.969Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T07:04:08.005Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T07:04:28.475Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:04:28.479Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:04:28.642Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:04:32.717Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:04:32.719Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:04:32.862Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:04:38.396Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:04:38.398Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:04:38.534Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:04:44.832Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:04:44.835Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:04:44.972Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:04:50.977Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:04:50.979Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:04:51.113Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:05:12.912Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:05:12.914Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:05:13.049Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:05:21.807Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:05:21.809Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:05:21.944Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:05:27.294Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:05:27.295Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:05:27.431Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:05:33.518Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:05:33.520Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:05:33.654Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:05:35.470Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:05:35.473Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:05:35.618Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:07:12.322Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T07:07:12.347Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T07:07:15.049Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T07:07:15.072Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T07:07:18.636Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T07:07:18.671Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T07:07:20.218Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:07:20.220Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:07:20.357Z ] - [ [34mdebug[39m ] Login: Password match status - false 
+[ 2021-06-21T07:08:01.879Z ] - [ [34mdebug[39m ] Login: Fetched admin by email - {
+  "0": "a",
+  "1": "d",
+  "2": "m",
+  "3": "i",
+  "4": "n",
+  "5": "@",
+  "6": "a",
+  "7": "d",
+  "8": "m",
+  "9": "i",
+  "10": "n",
+  "11": ".",
+  "12": "c",
+  "13": "o",
+  "14": "m"
+}
+[ 2021-06-21T07:08:01.881Z ] - [ [34mdebug[39m ] Login: Comparing password 
+[ 2021-06-21T07:08:02.020Z ] - [ [34mdebug[39m ] Login: Password match status - true 
+[ 2021-06-21T07:08:02.021Z ] - [ [32minfo[39m ] JWT: Generating refresh token - {
+  "data": {
+    "adminId": "57d28452ed5d4d54e8687098"
+  },
+  "expiresIn": "24h"
+}
+[ 2021-06-21T07:08:02.023Z ] - [ [32minfo[39m ] JWT: Generating access token - {
+  "data": {
+    "adminId": "57d28452ed5d4d54e8687098"
+  },
+  "expiresIn": "24h"
+}
+[ 2021-06-21T07:08:09.547Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T07:08:09.549Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T07:08:10.704Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T07:08:10.706Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T07:08:11.381Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T07:08:11.382Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:17.718Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:17.719Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:18.413Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:18.414Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:32.261Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:32.263Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:33.777Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:33.778Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:36.273Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:36.274Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:38.524Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:38.525Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:47.709Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:47.710Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:50.314Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:50.315Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:42:58.681Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:42:58.682Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:43:06.342Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:43:06.343Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:43:19.651Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:43:19.652Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:43:21.688Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:43:21.689Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:43:33.518Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:43:33.519Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:43:37.662Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:43:37.663Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:43:38.396Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:43:38.397Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:45:33.535Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:45:33.536Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:45:37.680Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:45:37.682Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:47:11.696Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:47:11.698Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:28.354Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:28.355Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:32.606Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:32.608Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:34.965Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:34.966Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:36.831Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:36.832Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:39.220Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:39.221Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:40.364Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:40.365Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:48.513Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:48.515Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:50.375Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:50.376Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:52.011Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:52.012Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:53.915Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:53.916Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:55.711Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:55.713Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T09:55:57.531Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T09:55:57.532Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:03:09.949Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:03:09.951Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:03:17.068Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:03:17.069Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:12:41.133Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:12:41.136Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:12:41.333Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:12:41.334Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:12:48.752Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:12:48.753Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:17:17.113Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:17:17.115Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:17:17.273Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:17:17.274Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:26:39.075Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T10:26:39.098Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T10:36:07.555Z ] - [ [32minfo[39m ] JWT: Verifying token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjp7ImFkbWluSWQiOiI1N2QyODQ1MmVkNWQ0ZDU0ZTg2ODcwOTgifSwiaWF0IjoxNjI0MjU5MjgyLCJleHAiOjE2MjQzNDU2ODJ9.HA5NDdGCd8q6F5pWUCZg5OixCVP11cHoq1eufdIT9C4 
+[ 2021-06-21T10:36:07.558Z ] - [ [34mdebug[39m ] JWT: Authentication verified - {
+  "adminId": "57d28452ed5d4d54e8687098"
+}
+[ 2021-06-21T10:38:49.699Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T10:38:49.723Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T10:38:54.091Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T10:38:54.112Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T10:38:58.379Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T10:38:58.401Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T10:39:14.998Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T10:39:15.022Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 
+[ 2021-06-21T12:31:07.340Z ] - [ [32minfo[39m ] Server started at http://127.0.0.1:8000 
+[ 2021-06-21T12:31:07.359Z ] - [ [32minfo[39m ] Succesfully Connected to the Mongodb Database  at URL :mongodb://localhost:27017/blog 

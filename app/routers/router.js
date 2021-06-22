@@ -2,6 +2,7 @@ var express = require("express");
 var articleController = require("../controller/article");
 var userController = require("../controller/users");
 var commentController = require("../controller/comment");
+var contactController = require("../controller/contact");
 var { authenticate } = require('../middlewares/authenticate');
 
 var multer = require('multer');
@@ -37,6 +38,9 @@ router.get('/view_count', articleController.viewCount);
 
 router.post('/comment_add', authenticate, commentController.commentAdd);
 router.get('/comment_list', commentController.commentList);
+
+router.post('/contact_mail', contactController.contactMailSend);
+
 
 
 module.exports = router;
